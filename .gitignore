@@ -14,11 +14,6 @@ gradle-app.setting
 # Cache de tareas de Gradle
 .gradletasknamecache
 
-# Gradle wrapper (scripts y configuración)
-gradlew
-gradlew.bat
-gradle/wrapper/
-
 # Archivos compilados de Java
 *.class
 
