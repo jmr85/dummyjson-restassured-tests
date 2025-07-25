@@ -24,6 +24,9 @@ jobs:
           cache: 'gradle'
           distribution: 'zulu'
 
+      - name: Dar permisos a gradlew
+        run: chmod +x ./gradlew     
+
       - name: Run Test
         run: ./gradlew test
         continue-on-error: true
