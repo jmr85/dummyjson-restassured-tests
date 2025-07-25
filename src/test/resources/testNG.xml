@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite API Books">
+    <test name="PruebasDummyJson">
+        <classes>
+            <!-- Lista de clases de prueba a considerar. En este caso, solo TokenAuth.java -->
+            <class name="APITests.UsersTests" />
+            <class name="APITests.AuthTests" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,58 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore Gradle dependencies
+# Gradle GUI config
+gradle-app.setting
+
+# Evitar ignorar el wrapper
+!gradle-wrapper.jar
+
+# Cache de tareas de Gradle
+.gradletasknamecache
+
+# Gradle wrapper (scripts y configuración)
+gradlew
+gradlew.bat
+gradle/wrapper/
+
+# Archivos compilados de Java
+*.class
+
+# Archivos empaquetados
+*.jar
+*.war
+*.ear
+
+# Log file
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Allure test results and reports
+allure-results/
+/allure-report/
+
+# --------------------
+# Eclipse
+# --------------------
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.project
+.settings/
+.loadpath
+.factorypath
+.externalToolBuilders/
+*.launch
