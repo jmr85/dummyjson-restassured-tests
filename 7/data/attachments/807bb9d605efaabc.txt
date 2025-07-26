@@ -1,0 +1,357 @@
+{
+    "users": [
+        {
+            "id": 11,
+            "firstName": "Liam",
+            "lastName": "Garcia",
+            "maidenName": "",
+            "age": 29,
+            "gender": "male",
+            "email": "liam.garcia@x.dummyjson.com",
+            "phone": "+92 870-217-6201",
+            "username": "liamg",
+            "password": "liamgpass",
+            "birthDate": "1995-6-6",
+            "image": "https://dummyjson.com/icon/liamg/128",
+            "bloodGroup": "AB-",
+            "height": 162.32,
+            "weight": 93.16,
+            "eyeColor": "Violet",
+            "hair": {
+                "color": "Red",
+                "type": "Wavy"
+            },
+            "ip": "56.201.85.9",
+            "address": {
+                "address": "576 Fifth Street",
+                "city": "Denver",
+                "state": "South Dakota",
+                "stateCode": "SD",
+                "postalCode": "57252",
+                "coordinates": {
+                    "lat": -66.218177,
+                    "lng": -145.340165
+                },
+                "country": "United States"
+            },
+            "macAddress": "31:9a:28:8b:99:6c",
+            "university": "Ohio State University",
+            "bank": {
+                "cardExpire": "02/27",
+                "cardNumber": "2302893002194899",
+                "cardType": "Discover",
+                "currency": "GBP",
+                "iban": "O8ENPRB9UVBL2EFZ7601KC09"
+            },
+            "company": {
+                "department": "Services",
+                "name": "Considine - Torp",
+                "title": "Web Developer",
+                "address": {
+                    "address": "27 Cedar Street",
+                    "city": "Philadelphia",
+                    "state": "Connecticut",
+                    "stateCode": "CT",
+                    "postalCode": "79574",
+                    "coordinates": {
+                        "lat": -81.841588,
+                        "lng": 31.79423
+                    },
+                    "country": "United States"
+                }
+            },
+            "ein": "326-604",
+            "ssn": "933-784-949",
+            "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
+            "crypto": {
+                "coin": "Bitcoin",
+                "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+                "network": "Ethereum (ERC20)"
+            },
+            "role": "moderator"
+        },
+        {
+            "id": 12,
+            "firstName": "Mia",
+            "lastName": "Rodriguez",
+            "maidenName": "",
+            "age": 24,
+            "gender": "female",
+            "email": "mia.rodriguez@x.dummyjson.com",
+            "phone": "+49 989-461-8403",
+            "username": "miar",
+            "password": "miarpass",
+            "birthDate": "2000-8-4",
+            "image": "https://dummyjson.com/icon/miar/128",
+            "bloodGroup": "O-",
+            "height": 188.08,
+            "weight": 56.03,
+            "eyeColor": "Blue",
+            "hair": {
+                "color": "Purple",
+                "type": "Wavy"
+            },
+            "ip": "11.72.253.90",
+            "address": {
+                "address": "1627 Sixth Street",
+                "city": "Jacksonville",
+                "state": "West Virginia",
+                "stateCode": "WV",
+                "postalCode": "41810",
+                "coordinates": {
+                    "lat": 24.857497,
+                    "lng": -34.865429
+                },
+                "country": "United States"
+            },
+            "macAddress": "53:d7:a4:6:1e:58",
+            "university": "William & Mary",
+            "bank": {
+                "cardExpire": "05/26",
+                "cardNumber": "1539872303456158",
+                "cardType": "Carte Bancaire",
+                "currency": "CAD",
+                "iban": "EBMD95RLK8B82ZAZNXBJ09V5"
+            },
+            "company": {
+                "department": "Accounting",
+                "name": "Miller, Schowalter and Wisozk",
+                "title": "Business Analyst",
+                "address": {
+                    "address": "1039 Washington Street",
+                    "city": "Philadelphia",
+                    "state": "New Jersey",
+                    "stateCode": "NJ",
+                    "postalCode": "57518",
+                    "coordinates": {
+                        "lat": 85.455933,
+                        "lng": 164.246103
+                    },
+                    "country": "United States"
+                }
+            },
+            "ein": "754-660",
+            "ssn": "749-524-124",
+            "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36",
+            "crypto": {
+                "coin": "Bitcoin",
+                "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+                "network": "Ethereum (ERC20)"
+            },
+            "role": "moderator"
+        },
+        {
+            "id": 13,
+            "firstName": "Noah",
+            "lastName": "Hernandez",
+            "maidenName": "",
+            "age": 40,
+            "gender": "male",
+            "email": "noah.hernandez@x.dummyjson.com",
+            "phone": "+49 393-605-6968",
+            "username": "noahh",
+            "password": "noahhpass",
+            "birthDate": "1984-6-5",
+            "image": "https://dummyjson.com/icon/noahh/128",
+            "bloodGroup": "AB+",
+            "height": 188.62,
+            "weight": 69.49,
+            "eyeColor": "Brown",
+            "hair": {
+                "color": "Red",
+                "type": "Curly"
+            },
+            "ip": "169.154.126.57",
+            "address": {
+                "address": "1413 Maple Street",
+                "city": "New York",
+                "state": "North Dakota",
+                "stateCode": "ND",
+                "postalCode": "73696",
+                "coordinates": {
+                    "lat": -25.0377,
+                    "lng": -151.70469
+                },
+                "country": "United States"
+            },
+            "macAddress": "d4:fe:ae:8f:eb:a3",
+            "university": "New York University (NYU)",
+            "bank": {
+                "cardExpire": "05/26",
+                "cardNumber": "1681772579326385",
+                "cardType": "Discover",
+                "currency": "SEK",
+                "iban": "G4UIZKIQVPJM9D31XQVR1E9Z"
+            },
+            "company": {
+                "department": "Engineering",
+                "name": "Botsford, Marquardt and Roberts",
+                "title": "Database Administrator",
+                "address": {
+                    "address": "62 Third Street",
+                    "city": "Seattle",
+                    "state": "Oregon",
+                    "stateCode": "OR",
+                    "postalCode": "83474",
+                    "coordinates": {
+                        "lat": 19.490447,
+                        "lng": -13.173207
+                    },
+                    "country": "United States"
+                }
+            },
+            "ein": "877-628",
+            "ssn": "660-847-389",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36",
+            "crypto": {
+                "coin": "Bitcoin",
+                "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+                "network": "Ethereum (ERC20)"
+            },
+            "role": "moderator"
+        },
+        {
+            "id": 14,
+            "firstName": "Charlotte",
+            "lastName": "Lopez",
+            "maidenName": "Martinez",
+            "age": 36,
+            "gender": "female",
+            "email": "charlotte.lopez@x.dummyjson.com",
+            "phone": "+44 373-953-5028",
+            "username": "charlottem",
+            "password": "charlottempass",
+            "birthDate": "1988-6-8",
+            "image": "https://dummyjson.com/icon/charlottem/128",
+            "bloodGroup": "AB-",
+            "height": 178.92,
+            "weight": 82.46,
+            "eyeColor": "Brown",
+            "hair": {
+                "color": "Gray",
+                "type": "Kinky"
+            },
+            "ip": "119.103.95.60",
+            "address": {
+                "address": "208 Second Street",
+                "city": "Columbus",
+                "state": "Ohio",
+                "stateCode": "OH",
+                "postalCode": "42044",
+                "coordinates": {
+                    "lat": -44.443762,
+                    "lng": -151.420561
+                },
+                "country": "United States"
+            },
+            "macAddress": "f6:ff:37:aa:6c:f1",
+            "university": "Northeastern University",
+            "bank": {
+                "cardExpire": "02/27",
+                "cardNumber": "5675368650551956",
+                "cardType": "Maestro",
+                "currency": "CNY",
+                "iban": "FKK6U634LGI3E7N517DLVVTL"
+            },
+            "company": {
+                "department": "Accounting",
+                "name": "Zulauf and Sons",
+                "title": "Chief Executive Officer",
+                "address": {
+                    "address": "569 Jefferson Street",
+                    "city": "Los Angeles",
+                    "state": "Montana",
+                    "stateCode": "MT",
+                    "postalCode": "17779",
+                    "coordinates": {
+                        "lat": -18.371256,
+                        "lng": 22.566258
+                    },
+                    "country": "United States"
+                }
+            },
+            "ein": "364-782",
+            "ssn": "255-491-479",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+            "crypto": {
+                "coin": "Bitcoin",
+                "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+                "network": "Ethereum (ERC20)"
+            },
+            "role": "moderator"
+        },
+        {
+            "id": 15,
+            "firstName": "William",
+            "lastName": "Gonzalez",
+            "maidenName": "",
+            "age": 32,
+            "gender": "male",
+            "email": "william.gonzalez@x.dummyjson.com",
+            "phone": "+81 905-252-7319",
+            "username": "williamg",
+            "password": "williamgpass",
+            "birthDate": "1992-3-27",
+            "image": "https://dummyjson.com/icon/williamg/128",
+            "bloodGroup": "B-",
+            "height": 173.21,
+            "weight": 82.41,
+            "eyeColor": "Hazel",
+            "hair": {
+                "color": "Gray",
+                "type": "Curly"
+            },
+            "ip": "250.2.241.204",
+            "address": {
+                "address": "31 Maple Street",
+                "city": "San Jose",
+                "state": "Utah",
+                "stateCode": "UT",
+                "postalCode": "78243",
+                "coordinates": {
+                    "lat": 8.152876,
+                    "lng": 113.29799
+                },
+                "country": "United States"
+            },
+            "macAddress": "f5:68:28:f9:ec:89",
+            "university": "Tufts University",
+            "bank": {
+                "cardExpire": "03/27",
+                "cardNumber": "6053000793215148",
+                "cardType": "Mir",
+                "currency": "EUR",
+                "iban": "AR01SNDMKGECX0EYH7UCW61W"
+            },
+            "company": {
+                "department": "Marketing",
+                "name": "Spinka - Dickinson",
+                "title": "Software Architect",
+                "address": {
+                    "address": "1538 Eighth Street",
+                    "city": "San Jose",
+                    "state": "Missouri",
+                    "stateCode": "MO",
+                    "postalCode": "29673",
+                    "coordinates": {
+                        "lat": 24.169361,
+                        "lng": -29.395167
+                    },
+                    "country": "United States"
+                }
+            },
+            "ein": "830-515",
+            "ssn": "690-544-755",
+            "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36",
+            "crypto": {
+                "coin": "Bitcoin",
+                "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+                "network": "Ethereum (ERC20)"
+            },
+            "role": "moderator"
+        }
+    ],
+    "total": 208,
+    "skip": 10,
+    "limit": 5
+}
