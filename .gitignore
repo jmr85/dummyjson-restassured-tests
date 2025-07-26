@@ -8,9 +8,6 @@ build
 # Gradle GUI config
 gradle-app.setting
 
-# Evitar ignorar el wrapper
-!gradle-wrapper.jar
-
 # Cache de tareas de Gradle
 .gradletasknamecache
 
