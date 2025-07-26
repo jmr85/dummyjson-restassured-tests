@@ -43,7 +43,7 @@ public class AuthTest {
                 .when()
                 .post("/auth/login")
                 .then()
-                .statusCode(201)// Cambiado a 201 para probar allure
+                .statusCode(200)
                 .body("accessToken", notNullValue())
                 .body("username", equalTo("oliviaw"));
     }
