@@ -13,11 +13,13 @@ import io.qameta.allure.Allure;
 import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
+import io.qameta.allure.Link;
 import io.qameta.allure.Owner;
 import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
 import io.restassured.RestAssured;
 import static io.restassured.RestAssured.given;
+import io.restassured.module.jsv.JsonSchemaValidator;
 import io.restassured.response.Response;
 
 @Epic("DummyJSON")
@@ -27,6 +29,20 @@ public class UsersTest {
     @BeforeClass
     public void setup() {
         RestAssured.baseURI = "https://dummyjson.com";
+    }
+
+    @Test(description = "Validar schema de respuesta para un usuario")
+    @Severity(SeverityLevel.CRITICAL)
+    @Owner("JuanMartin")
+    @Description("GET /users/1 debe cumplir el contrato users-schema.json")
+    @Link("https://dummyjson.com/docs/users#users-single")
+    public void validateUserSchema() {
+        given()
+        .when()
+            .get("/users/1")
+        .then()
+            .statusCode(200)
+            .body(JsonSchemaValidator.matchesJsonSchemaInClasspath("schemas/user-schema.json"));
     }
 
     @Test(description = "Obtener todos los usuarios", groups = {"users", "regression"})
