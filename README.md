@@ -1,4 +1,3 @@
-```markdown
 # DummyJSON RestAssured API Tests
 
 ![CI](https://github.com/jmr85/dummyjson-restassured-tests/actions/workflows/deploy-report.yml/badge.svg)
