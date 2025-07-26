@@ -7,9 +7,4 @@
             <class name="APITests.AuthTest" />
         </classes>
     </test>
-    <test name="PruebaExample">
-        <classes>
-            <class name="APITests.ExampleTest" />
-        </classes>
-    </test>
 </suite>
