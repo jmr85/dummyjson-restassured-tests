@@ -56,4 +56,6 @@ tasks.named('test') {
         suites 'src/test/resources/testNG.xml'
         jvmArgs = [ "-javaagent:${configurations.agent.singleFile}" ]
     }
+    // Enable Allure reporting
+    systemProperty "allure.results.directory", "$buildDir/allure-results"
 }

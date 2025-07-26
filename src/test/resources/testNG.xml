@@ -3,8 +3,13 @@
     <test name="PruebasDummyJson">
         <classes>
             <!-- Lista de clases de prueba a considerar. En este caso, solo TokenAuth.java -->
-            <class name="APITests.UsersTests" />
-            <class name="APITests.AuthTests" />
+            <class name="APITests.UsersTest" />
+            <class name="APITests.AuthTest" />
+        </classes>
+    </test>
+    <test name="PruebaExample">
+        <classes>
+            <class name="APITests.ExampleTest" />
         </classes>
     </test>
 </suite>

@@ -22,7 +22,7 @@ import io.restassured.response.Response;
 
 @Epic("DummyJSON")
 @Feature("Users API")
-public class UsersTests {
+public class UsersTest {
 
     @BeforeClass
     public void setup() {

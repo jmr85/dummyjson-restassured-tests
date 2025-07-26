@@ -18,7 +18,7 @@ import io.restassured.http.ContentType;
 
 @Epic("DummyJSON")
 @Feature("Auth API")
-public class AuthTests {
+public class AuthTest {
 
     @BeforeClass
     public void setup() {
