@@ -1,0 +1,60 @@
+{
+    "id": 1,
+    "firstName": "JuanEditado",
+    "lastName": "Martin",
+    "maidenName": "Smith",
+    "age": 28,
+    "gender": "female",
+    "email": "emily.johnson@x.dummyjson.com",
+    "phone": "+81 965-431-3024",
+    "username": "emilys",
+    "password": "emilyspass",
+    "birthDate": "1996-5-30",
+    "image": "https://dummyjson.com/icon/emilys/128",
+    "bloodGroup": "O-",
+    "height": 193.24,
+    "weight": 63.16,
+    "eyeColor": "Green",
+    "hair": {
+        "color": "",
+        "type": ""
+    },
+    "ip": "42.48.100.32",
+    "address": {
+        "address": "",
+        "city": "",
+        "coordinates": {
+            "lat": null,
+            "lng": null
+        },
+        "postalCode": "",
+        "state": ""
+    },
+    "macAddress": "47:fa:41:18:ec:eb",
+    "university": "University of Wisconsin--Madison",
+    "bank": {
+        "cardExpire": "",
+        "cardNumber": "",
+        "cardType": "",
+        "currency": "",
+        "iban": ""
+    },
+    "company": {
+        "address": {
+            "address": "",
+            "city": "",
+            "coordinates": {
+                "lat": null,
+                "lng": null
+            },
+            "postalCode": "",
+            "state": ""
+        },
+        "department": "",
+        "name": "",
+        "title": ""
+    },
+    "ein": "977-175",
+    "ssn": "900-590-289",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36"
+}
